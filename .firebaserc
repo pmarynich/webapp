@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "cert-webchat",
+    "staging": "cert-webchat"
+  },
+  "targets": {}
+}
